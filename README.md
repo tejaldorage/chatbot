@@ -62,11 +62,11 @@ grok-chatbot/
 ---
 
 ## 🚀 Future Improvements
-Chat history storage
-Better UI (React / Tailwind)
-Voice input support
-Deployment (Render / AWS)
-User authentication
+- Chat history storage
+- Better UI (React / Tailwind)
+- Voice input support
+- Deployment (Render / AWS)
+- User authentication
 
 
   
