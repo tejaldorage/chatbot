@@ -29,8 +29,8 @@ Users can send messages through a web interface and receive AI-generated respons
   <img width="1390" height="710" alt="Screenshot 2026-04-20 003110" src="https://github.com/user-attachments/assets/41eb5bad-0f4f-4c09-8afc-2e48ac991ece" />
 
 
-  ##  📁 File Structure
-  ```
+  ## 📁 File Structure
+```
 grok-chatbot/
 │
 ├── static/
@@ -43,11 +43,9 @@ grok-chatbot/
 ├── requirements.txt
 ├── .env              
 └── README.md
-
 ```
 
 ---
-
 ## 💡 How It Works
 - User types a message
 - Frontend sends request to Flask (/chat)
