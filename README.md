@@ -1,5 +1,5 @@
 # chatbot
-🤖 Groq AI Chatbot
+🤖 AI Chatbot
 A simple AI Chatbot Web Application built using Flask and Groq API (LLaMA model).
 Users can send messages through a web interface and receive AI-generated responses instantly.
 
